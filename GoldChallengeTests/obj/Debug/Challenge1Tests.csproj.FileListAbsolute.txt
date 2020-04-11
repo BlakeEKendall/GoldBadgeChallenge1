@@ -1,0 +1,17 @@
+C:\Users\Blake Kendall\source\repos\GoldChallenge1\GoldChallengeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Blake Kendall\source\repos\GoldChallenge1\GoldChallengeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Blake Kendall\source\repos\GoldChallenge1\GoldChallengeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Blake Kendall\source\repos\GoldChallenge1\GoldChallengeTests\bin\Debug\GoldChallengeTests.dll
+C:\Users\Blake Kendall\source\repos\GoldChallenge1\GoldChallengeTests\bin\Debug\GoldChallengeTests.pdb
+C:\Users\Blake Kendall\source\repos\GoldChallenge1\GoldChallengeTests\bin\Debug\Challenge1App.exe
+C:\Users\Blake Kendall\source\repos\GoldChallenge1\GoldChallengeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Blake Kendall\source\repos\GoldChallenge1\GoldChallengeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Blake Kendall\source\repos\GoldChallenge1\GoldChallengeTests\bin\Debug\Challenge1App.pdb
+C:\Users\Blake Kendall\source\repos\GoldChallenge1\GoldChallengeTests\bin\Debug\Challenge1App.exe.config
+C:\Users\Blake Kendall\source\repos\GoldChallenge1\GoldChallengeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Blake Kendall\source\repos\GoldChallenge1\GoldChallengeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Blake Kendall\source\repos\GoldChallenge1\GoldChallengeTests\obj\Debug\Challenge1Tests.csprojAssemblyReference.cache
+C:\Users\Blake Kendall\source\repos\GoldChallenge1\GoldChallengeTests\obj\Debug\Challenge1Tests.csproj.CoreCompileInputs.cache
+C:\Users\Blake Kendall\source\repos\GoldChallenge1\GoldChallengeTests\obj\Debug\Challenge1Tests.csproj.CopyComplete
+C:\Users\Blake Kendall\source\repos\GoldChallenge1\GoldChallengeTests\obj\Debug\GoldChallengeTests.dll
+C:\Users\Blake Kendall\source\repos\GoldChallenge1\GoldChallengeTests\obj\Debug\GoldChallengeTests.pdb
